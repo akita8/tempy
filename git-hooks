@@ -1,0 +1,2 @@
+echo "Ciao"
+exit 1
